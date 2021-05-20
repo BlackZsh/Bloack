@@ -1,0 +1,25 @@
+{
+  "name": "NEXTYPE",
+  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xb202ece62a079e1245c2e4cbafa16a0b22bc044b",
+      "name": "NEXTYPE",
+      "symbol": "NEX",
+      "decimals": 18,
+      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
